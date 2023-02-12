@@ -13,7 +13,7 @@ Clone da Netflix construído com React, Redux Toolkit, Firebase, Styled Componen
 ![netflix](https://user-images.githubusercontent.com/50328718/218330063-cdf3b44d-ae31-4306-8d88-e4b4ba23d74a.png)
 </p>
 
-<p align="center"><a href="https://disneyplus-db.vercel.app/">Clique aqui</a> para ver o projeto.</p>
+
 
 ## 💻 Sobre
 Este projeto é um clone da interface da Netflix, construído utilizando React como framework principal. Ele envolve a criação de todas as páginas e funcionalidades principais da Netflix, como o catálogo de filmes, séries e documentários. O projeto também inclui funcionalidades de busca por gênero, navegação e reprodução de vídeos.
