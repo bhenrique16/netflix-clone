@@ -32,6 +32,7 @@ Este projeto é um clone da interface da Netflix, construído utilizando React c
 
 ## 📔 Aprendizado
 
+- [x]  Cadastro e login com Firebase
 - [x]  React Router
 - [x]  API com React e NODE.js
 - [x]  Divisão de filmes por categorias
