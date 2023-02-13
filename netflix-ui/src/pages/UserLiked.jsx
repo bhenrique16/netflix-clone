@@ -30,7 +30,7 @@ useEffect(() => {
     dispatch(getUserLikedMovies(email))
   }
 }, [email,dispatch]);
-//talvez em cima tirar
+//talvez em  tirar
 window.onscroll = () => {
   setIsScrolled(window.pageYOffset === 0 ? false : true);
   return () => (window.onscroll = null);
