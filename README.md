@@ -6,6 +6,7 @@ Clone da Netflix construído com React, Redux Toolkit, Firebase, Styled Componen
   Netflix
 </h1>
 
+
 <p align="center">
   
   </a>
